@@ -2,3 +2,5 @@ tags
 test.sh
 .luarc.json
 nvim
+undodir/
+lazy-lock.json
